@@ -159,9 +159,9 @@
       <EventFunction-EventCondition1-Hardware-Range>0</EventFunction-EventCondition1-Hardware-Range>
       <EventFunction-EventCondition1-Hardware-MaskData>4294967295</EventFunction-EventCondition1-Hardware-MaskData>
       <EventFunction-EventCondition1-Hardware-StartAddress-LocationType>SymbolOffset</EventFunction-EventCondition1-Hardware-StartAddress-LocationType>
-      <EventFunction-EventCondition1-Hardware-StartAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\DefaultBuild\RL78_F24_Boot_loader_UART.abs</EventFunction-EventCondition1-Hardware-StartAddress-LoadModule>
+      <EventFunction-EventCondition1-Hardware-StartAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\DefaultBuild\RL78_F24_Basic_Boot_loader_UART.abs</EventFunction-EventCondition1-Hardware-StartAddress-LoadModule>
       <EventFunction-EventCondition1-Hardware-StartAddress-File>cstart.asm</EventFunction-EventCondition1-Hardware-StartAddress-File>
-      <EventFunction-EventCondition1-Hardware-StartAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\</EventFunction-EventCondition1-Hardware-StartAddress-Directory>
+      <EventFunction-EventCondition1-Hardware-StartAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\</EventFunction-EventCondition1-Hardware-StartAddress-Directory>
       <EventFunction-EventCondition1-Hardware-StartAddress-Symbol>_start</EventFunction-EventCondition1-Hardware-StartAddress-Symbol>
       <EventFunction-EventCondition1-Hardware-StartAddress-Offset>0</EventFunction-EventCondition1-Hardware-StartAddress-Offset>
       <EventFunction-EventCondition1-Hardware-StartAddressVariableString />
@@ -183,9 +183,9 @@
       <EventFunction-EventCondition1-Software-EventConditionType>Software</EventFunction-EventCondition1-Software-EventConditionType>
       <EventFunction-EventCondition1-Software-EventNumber>0</EventFunction-EventCondition1-Software-EventNumber>
       <EventFunction-EventCondition1-Software-BreakAddress-LocationType>SymbolOffset</EventFunction-EventCondition1-Software-BreakAddress-LocationType>
-      <EventFunction-EventCondition1-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\DefaultBuild\RL78_F24_Boot_loader_UART.abs</EventFunction-EventCondition1-Software-BreakAddress-LoadModule>
+      <EventFunction-EventCondition1-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\DefaultBuild\RL78_F24_Basic_Boot_loader_UART.abs</EventFunction-EventCondition1-Software-BreakAddress-LoadModule>
       <EventFunction-EventCondition1-Software-BreakAddress-File>r_rfd_common_api.c</EventFunction-EventCondition1-Software-BreakAddress-File>
-      <EventFunction-EventCondition1-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\RFDRL78T02\source\common\</EventFunction-EventCondition1-Software-BreakAddress-Directory>
+      <EventFunction-EventCondition1-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\RFDRL78T02\source\common\</EventFunction-EventCondition1-Software-BreakAddress-Directory>
       <EventFunction-EventCondition1-Software-BreakAddress-Symbol>_R_RFD_SetFlashMemoryMode</EventFunction-EventCondition1-Software-BreakAddress-Symbol>
       <EventFunction-EventCondition1-Software-BreakAddress-Offset>11</EventFunction-EventCondition1-Software-BreakAddress-Offset>
       <EventFunction-EventCondition1-Software-EffectiveBreakAddress-LocationType>Address</EventFunction-EventCondition1-Software-EffectiveBreakAddress-LocationType>
@@ -198,9 +198,9 @@
       <EventFunction-EventCondition2-Software-EventConditionType>Software</EventFunction-EventCondition2-Software-EventConditionType>
       <EventFunction-EventCondition2-Software-EventNumber>1</EventFunction-EventCondition2-Software-EventNumber>
       <EventFunction-EventCondition2-Software-BreakAddress-LocationType>SymbolOffset</EventFunction-EventCondition2-Software-BreakAddress-LocationType>
-      <EventFunction-EventCondition2-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\DefaultBuild\RL78_F24_Boot_loader_UART.abs</EventFunction-EventCondition2-Software-BreakAddress-LoadModule>
+      <EventFunction-EventCondition2-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\DefaultBuild\RL78_F24_Basic_Boot_loader_UART.abs</EventFunction-EventCondition2-Software-BreakAddress-LoadModule>
       <EventFunction-EventCondition2-Software-BreakAddress-File>r_rfd_common_api.c</EventFunction-EventCondition2-Software-BreakAddress-File>
-      <EventFunction-EventCondition2-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\RFDRL78T02\source\common\</EventFunction-EventCondition2-Software-BreakAddress-Directory>
+      <EventFunction-EventCondition2-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\RFDRL78T02\source\common\</EventFunction-EventCondition2-Software-BreakAddress-Directory>
       <EventFunction-EventCondition2-Software-BreakAddress-Symbol>_R_RFD_SetFlashMemoryMode</EventFunction-EventCondition2-Software-BreakAddress-Symbol>
       <EventFunction-EventCondition2-Software-BreakAddress-Offset>7</EventFunction-EventCondition2-Software-BreakAddress-Offset>
       <EventFunction-EventCondition2-Software-EffectiveBreakAddress-LocationType>Address</EventFunction-EventCondition2-Software-EffectiveBreakAddress-LocationType>
@@ -213,9 +213,9 @@
       <EventFunction-EventCondition3-Software-EventConditionType>Software</EventFunction-EventCondition3-Software-EventConditionType>
       <EventFunction-EventCondition3-Software-EventNumber>2</EventFunction-EventCondition3-Software-EventNumber>
       <EventFunction-EventCondition3-Software-BreakAddress-LocationType>SymbolOffset</EventFunction-EventCondition3-Software-BreakAddress-LocationType>
-      <EventFunction-EventCondition3-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\DefaultBuild\RL78_F24_Boot_loader_UART.abs</EventFunction-EventCondition3-Software-BreakAddress-LoadModule>
+      <EventFunction-EventCondition3-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\DefaultBuild\RL78_F24_Basic_Boot_loader_UART.abs</EventFunction-EventCondition3-Software-BreakAddress-LoadModule>
       <EventFunction-EventCondition3-Software-BreakAddress-File>boot_main.c</EventFunction-EventCondition3-Software-BreakAddress-File>
-      <EventFunction-EventCondition3-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\</EventFunction-EventCondition3-Software-BreakAddress-Directory>
+      <EventFunction-EventCondition3-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\</EventFunction-EventCondition3-Software-BreakAddress-Directory>
       <EventFunction-EventCondition3-Software-BreakAddress-Symbol>_InitCodeFlash</EventFunction-EventCondition3-Software-BreakAddress-Symbol>
       <EventFunction-EventCondition3-Software-BreakAddress-Offset>54</EventFunction-EventCondition3-Software-BreakAddress-Offset>
       <EventFunction-EventCondition3-Software-EffectiveBreakAddress-LocationType>Address</EventFunction-EventCondition3-Software-EffectiveBreakAddress-LocationType>
@@ -228,9 +228,9 @@
       <EventFunction-EventCondition4-Software-EventConditionType>Software</EventFunction-EventCondition4-Software-EventConditionType>
       <EventFunction-EventCondition4-Software-EventNumber>3</EventFunction-EventCondition4-Software-EventNumber>
       <EventFunction-EventCondition4-Software-BreakAddress-LocationType>SymbolOffset</EventFunction-EventCondition4-Software-BreakAddress-LocationType>
-      <EventFunction-EventCondition4-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\DefaultBuild\RL78_F24_Boot_loader_UART.abs</EventFunction-EventCondition4-Software-BreakAddress-LoadModule>
+      <EventFunction-EventCondition4-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\DefaultBuild\RL78_F24_Basic_Boot_loader_UART.abs</EventFunction-EventCondition4-Software-BreakAddress-LoadModule>
       <EventFunction-EventCondition4-Software-BreakAddress-File>boot_main.c</EventFunction-EventCondition4-Software-BreakAddress-File>
-      <EventFunction-EventCondition4-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\</EventFunction-EventCondition4-Software-BreakAddress-Directory>
+      <EventFunction-EventCondition4-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\</EventFunction-EventCondition4-Software-BreakAddress-Directory>
       <EventFunction-EventCondition4-Software-BreakAddress-Symbol>_InitCodeFlash</EventFunction-EventCondition4-Software-BreakAddress-Symbol>
       <EventFunction-EventCondition4-Software-BreakAddress-Offset>23</EventFunction-EventCondition4-Software-BreakAddress-Offset>
       <EventFunction-EventCondition4-Software-EffectiveBreakAddress-LocationType>Address</EventFunction-EventCondition4-Software-EffectiveBreakAddress-LocationType>
@@ -243,9 +243,9 @@
       <EventFunction-EventCondition5-Software-EventConditionType>Software</EventFunction-EventCondition5-Software-EventConditionType>
       <EventFunction-EventCondition5-Software-EventNumber>4</EventFunction-EventCondition5-Software-EventNumber>
       <EventFunction-EventCondition5-Software-BreakAddress-LocationType>SymbolOffset</EventFunction-EventCondition5-Software-BreakAddress-LocationType>
-      <EventFunction-EventCondition5-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\DefaultBuild\RL78_F24_Boot_loader_UART.abs</EventFunction-EventCondition5-Software-BreakAddress-LoadModule>
+      <EventFunction-EventCondition5-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\DefaultBuild\RL78_F24_Basic_Boot_loader_UART.abs</EventFunction-EventCondition5-Software-BreakAddress-LoadModule>
       <EventFunction-EventCondition5-Software-BreakAddress-File>boot_main.c</EventFunction-EventCondition5-Software-BreakAddress-File>
-      <EventFunction-EventCondition5-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\</EventFunction-EventCondition5-Software-BreakAddress-Directory>
+      <EventFunction-EventCondition5-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\</EventFunction-EventCondition5-Software-BreakAddress-Directory>
       <EventFunction-EventCondition5-Software-BreakAddress-Symbol>_InitCodeFlash</EventFunction-EventCondition5-Software-BreakAddress-Symbol>
       <EventFunction-EventCondition5-Software-BreakAddress-Offset>71</EventFunction-EventCondition5-Software-BreakAddress-Offset>
       <EventFunction-EventCondition5-Software-EffectiveBreakAddress-LocationType>Address</EventFunction-EventCondition5-Software-EffectiveBreakAddress-LocationType>
@@ -258,9 +258,9 @@
       <EventFunction-EventCondition6-Software-EventConditionType>Software</EventFunction-EventCondition6-Software-EventConditionType>
       <EventFunction-EventCondition6-Software-EventNumber>5</EventFunction-EventCondition6-Software-EventNumber>
       <EventFunction-EventCondition6-Software-BreakAddress-LocationType>SymbolOffset</EventFunction-EventCondition6-Software-BreakAddress-LocationType>
-      <EventFunction-EventCondition6-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\DefaultBuild\RL78_F24_Boot_loader_UART.abs</EventFunction-EventCondition6-Software-BreakAddress-LoadModule>
+      <EventFunction-EventCondition6-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\DefaultBuild\RL78_F24_Basic_Boot_loader_UART.abs</EventFunction-EventCondition6-Software-BreakAddress-LoadModule>
       <EventFunction-EventCondition6-Software-BreakAddress-File>boot_main.c</EventFunction-EventCondition6-Software-BreakAddress-File>
-      <EventFunction-EventCondition6-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\</EventFunction-EventCondition6-Software-BreakAddress-Directory>
+      <EventFunction-EventCondition6-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\</EventFunction-EventCondition6-Software-BreakAddress-Directory>
       <EventFunction-EventCondition6-Software-BreakAddress-Symbol>_InitCodeFlash</EventFunction-EventCondition6-Software-BreakAddress-Symbol>
       <EventFunction-EventCondition6-Software-BreakAddress-Offset>78</EventFunction-EventCondition6-Software-BreakAddress-Offset>
       <EventFunction-EventCondition6-Software-EffectiveBreakAddress-LocationType>Address</EventFunction-EventCondition6-Software-EffectiveBreakAddress-LocationType>
@@ -2190,7 +2190,7 @@
       <PanelCount>2</PanelCount>
       <InstanceGuid0>4787501f-ab84-4230-8618-eb7ee053e992</InstanceGuid0>
       <HelperClassGuid0>e9e5eb74-fd3b-4a6d-9bee-88bf153cb9b0</HelperClassGuid0>
-      <Document.Path0>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\stkinit.asm</Document.Path0>
+      <Document.Path0>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\stkinit.asm</Document.Path0>
       <ProjectItem.InstanceGuid0>377239e4-03d6-4d35-83d9-490b528328c4</ProjectItem.InstanceGuid0>
       <IndexId0>0</IndexId0>
       <ShowIndexId0>False</ShowIndexId0>
@@ -2203,7 +2203,7 @@ FirstVisiblePosition:Right,0,0
 </StatusText0>
       <InstanceGuid1>0c4040c7-7526-41f7-8090-1042114c1876</InstanceGuid1>
       <HelperClassGuid1>e9e5eb74-fd3b-4a6d-9bee-88bf153cb9b0</HelperClassGuid1>
-      <Document.Path1>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_UART\cstart.asm</Document.Path1>
+      <Document.Path1>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_UART\cstart.asm</Document.Path1>
       <ProjectItem.InstanceGuid1>36b79fd4-8b68-48ef-a3ca-da886c1b301e</ProjectItem.InstanceGuid1>
       <IndexId1>0</IndexId1>
       <ShowIndexId1>False</ShowIndexId1>

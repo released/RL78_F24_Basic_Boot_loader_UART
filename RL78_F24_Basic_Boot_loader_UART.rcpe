@@ -5,7 +5,7 @@
     <PlaceholderPrefix>%</PlaceholderPrefix>
     <PlaceholderPostfix>%</PlaceholderPostfix>
   </Placeholders>
-  <Project Name="RL78_F24_Boot_loader_UART" Type="Application">
+  <Project Name="RL78_F24_Basic_Boot_loader_UART" Type="Application">
     <Files>
       <Path>boot_main.c</Path>
       <Category Name="Smart Configurator">
@@ -210,7 +210,7 @@
         </LinkOrder>
         <CommonOptions>
           <IncludePathForC>src\smc_gen\Config_TAU0_0</IncludePathForC>
-          <IncludePathForC>..\RL78_F24_Boot_loader_app\RFDRL78T02\include</IncludePathForC>
+          <IncludePathForC>..\RL78_F24_Basic_Boot_loader_app\RFDRL78T02\include</IncludePathForC>
           <IncludePathForC>src\smc_gen\Config_UART1</IncludePathForC>
           <IncludePathForC>RFDRL78T02\sample\common\include</IncludePathForC>
           <IncludePathForC>RFDRL78T02\include\rfd</IncludePathForC>
@@ -244,7 +244,7 @@
           <Option>-g_line</Option>
           <Option>-Onothing</Option>
           <Option>-I src\smc_gen\Config_TAU0_0</Option>
-          <Option>-I ..\RL78_F24_Boot_loader_app\RFDRL78T02\include</Option>
+          <Option>-I ..\RL78_F24_Basic_Boot_loader_app\RFDRL78T02\include</Option>
           <Option>-I src\smc_gen\Config_UART1</Option>
           <Option>-I RFDRL78T02\sample\common\include</Option>
           <Option>-I RFDRL78T02\include\rfd</Option>
@@ -436,8 +436,8 @@
     </BuildOptions>
     <Extension_SmcCodePartRL78>
       <CodeGeneratorData></CodeGeneratorData>
-      <GenerateFileFolder>D:\SourceCode\Renesas\CS+\RL78_F24_SelfTest</GenerateFileFolder>
-      <SCFGFile>RL78_F24_SelfTest.scfg</SCFGFile>
+      <GenerateFileFolder>.</GenerateFileFolder>
+      <SCFGFile>RL78_F24_Basic_Boot_loader_UART.scfg</SCFGFile>
       <SmcExePath>C:\Program Files (x86)\Renesas Electronics\SmartConfigurator\RL78\eclipse\SmartConfigurator.exe</SmcExePath>
       <CodeGeneratorFilesGuid>f1f83d28-5e28-4ba0-8eef-43d900de5bac</CodeGeneratorFilesGuid>
     </Extension_SmcCodePartRL78>
